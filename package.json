@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/LeonardoTorresRodrigues/lib_node_alura"
   },
-  "homepage": "https://github.com/LeonardoTorresRodrigues/lib_node_alura#readme"
+  "homepage": "https://github.com/LeonardoTorresRodrigues/lib_node_alura#readme",
+  "dependencies": {
+    "chalk": "5.0.1"
+  }
 }
