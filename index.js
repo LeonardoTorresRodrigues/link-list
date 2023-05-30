@@ -12,7 +12,9 @@ async function pegaArquivo(caminhoDoArquivo) {
     const texto = await fs.promises.readFile(caminhoDoArquivo, encoding)
     console.log(chalk.green(texto));
   } catch (erro) {
-    trataErro(erro)
+    trataErro(erro);
+  } finally {
+    console.log(chalk.yellow('operação concluída'));
   }
 }
 
