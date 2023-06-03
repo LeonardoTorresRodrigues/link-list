@@ -22,7 +22,7 @@ async function pegaArquivo(caminhoDoArquivo) {
   } catch (erro) {
     trataErro(erro);
   } finally {
-    console.log(chalk.yellow('operação concluída'));
+    console.info(chalk.bgYellow('Buscando informações'));
   }
 }
 
