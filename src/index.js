@@ -21,8 +21,6 @@ async function pegaArquivo(caminhoDoArquivo) {
     return (extraiLinks(texto));
   } catch (erro) {
     trataErro(erro);
-  } finally {
-    console.info(chalk.bgYellow('Buscando informações'));
   }
 }
 
