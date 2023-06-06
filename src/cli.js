@@ -18,7 +18,7 @@ async function processaTexto(argumentos) {
     fs.lstatSync(caminho);
   } catch (erro) {
     if (erro.code === 'ENOENT') {
-      console.error('arquivo ou diretório não existe');
+      console.error(chalk.red('arquivo ou diretório não existe'));
       return;
     }
   }
