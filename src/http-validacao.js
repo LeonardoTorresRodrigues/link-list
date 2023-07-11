@@ -6,7 +6,7 @@ async function checaStatus(listaURLs) {
   const arrStatus = await Promise
     .all(
       listaURLs.map(async (url) => {
-        const response = await fetch(url);
+        const response = await fetch(url, { method: 'HEAD' });
         return response.status;
       })
     )
