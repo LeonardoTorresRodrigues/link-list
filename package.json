@@ -1,7 +1,7 @@
 {
   "name": "link-list",
   "version": "1.0.0",
-  "description": "Lista links dentro de um texto e retorna o código de status da requisição HTTP [Lists links within a text and returns the HTTP response status code]",
+  "description": "Gera uma lista com os links de um texto e retorna o código de status da resposta HTTP [Generates a list of links from a text and returns the HTTP response status code]",
   "main": "./cli.js",
   "bin": {
     "link-list": "./cli.js"
