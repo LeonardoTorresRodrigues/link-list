@@ -14,8 +14,7 @@ _Generates a list of links from a text and returns the HTTP response status code
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-<!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![link-list](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/acb3a159-c905-475c-8307-6313ea03f4b2#vitrinedev)
 
 ## Detalhes do projeto
 
