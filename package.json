@@ -1,8 +1,12 @@
 {
-  "name": "lib-node-alura",
+  "name": "link-list",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Lista links dentro de um texto e retorna o código de status da requisição HTTP [Lists links within a text and returns the HTTP response status code]",
+  "main": "./cli.js",
+  "bin": {
+    "link-list": "./cli.js"
+  },
+  "preferGlobal": true,
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,11 +16,18 @@
     "type": "git",
     "url": "git+https://github.com/LeonardoTorresRodrigues/lib_node_alura"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "markdown",
+    "URL",
+    "links",
+    "list",
+    "alura"
+  ],
+  "author": "Leonardo Torres Rodrigues <leonardo.t.rodri@gmail.com> (https://github.com/LeonardoTorresRodrigues)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LeonardoTorresRodrigues/lib_node_alura"
+    "url": "https://github.com/LeonardoTorresRodrigues/lib_node_alura/issues",
+    "email": "leonardo.t.rodri@gmail.com"
   },
   "homepage": "https://github.com/LeonardoTorresRodrigues/lib_node_alura#readme",
   "dependencies": {
