@@ -18,9 +18,9 @@ _Generates a list of URLs from a text and returns the HTTP response status code_
 
 ## Detalhes do projeto
 
-Projeto feito durante curso ["Node.js: criando sua primeira biblioteca"](https://cursos.alura.com.br/course/nodejs-criando-primeira-biblioteca) da [Alura](https://www.alura.com.br/).
+Com essa lib você pode gerar uma lista com as URLs de um arquivo de texto e checar o código de status da resposta HTTP. 
 
-Instrutora do curso: [Juliana Amoasei](https://github.com/JulianaAmoasei)
+_🚧 Em breve este projeto será publicado no npm 🚧_
 
 ## Modo de usar
 
@@ -31,5 +31,16 @@ Instrutora do curso: [Juliana Amoasei](https://github.com/JulianaAmoasei)
 2. Você pode passar a flag `--valida` para checar o _[status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)_ da URL:
 
 ![example](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/90e85005-8540-47ec-ad7b-a4d5d0d4e024)
+
+## Curso da Alura
+
+Esse projeto foi feito durante o curso [Node.js: criando sua primeira biblioteca](https://cursos.alura.com.br/course/nodejs-criando-primeira-biblioteca), com a instrutora [Juliana Amoasei](https://github.com/JulianaAmoasei) da [Alura](https://www.alura.com.br/).
+
+### O que aprendi
+- Utilizar libs
+- Trabalhar com promessas e código assíncrono no Node.js
+- Regex
+- Criar scripts
+- Requisições e respostas HTTP
 
 _Developed by [Leonardo Torres Rodrigues](https://github.com/LeonardoTorresRodrigues)_
