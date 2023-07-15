@@ -2,7 +2,7 @@
 
 Gera uma lista com as URLs de um texto e retorna o código de status da resposta HTTP
 
-_Generates a list of URLs of a text and returns the HTTP response status code_
+_Generates a URL list of a text and returns the HTTP response status code_
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
