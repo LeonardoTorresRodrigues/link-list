@@ -1,8 +1,8 @@
 # Link List
 
-Gera uma lista com os links de um texto e retorna o código de status da resposta HTTP
+Gera uma lista com as URLs de um texto e retorna o código de status da resposta HTTP
 
-_Generates a list of links from a text and returns the HTTP response status code_
+_Generates a list of URLs from a text and returns the HTTP response status code_
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -19,3 +19,15 @@ _Generates a list of links from a text and returns the HTTP response status code
 ## Detalhes do projeto
 
 _Do curso: ["Node.js: criando sua primeira biblioteca"](https://cursos.alura.com.br/course/nodejs-criando-primeira-biblioteca) da [Alura](https://www.alura.com.br/)_
+
+## Modo de usar
+
+1. Use o comando `npm run cli` passando o caminho do arquivo de texto:
+
+![example-1](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/b322965b-0dc5-4f7d-b792-99864787df3b)
+
+2. Você pode passar a flag `--valida` para checar o _[status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)_ da URL:
+
+![example](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/90e85005-8540-47ec-ad7b-a4d5d0d4e024)
+
+_Developed by [Leonardo Torres Rodrigues](https://github.com/LeonardoTorresRodrigues)_
