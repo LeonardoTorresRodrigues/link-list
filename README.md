@@ -18,7 +18,9 @@ _Generates a list of URLs from a text and returns the HTTP response status code_
 
 ## Detalhes do projeto
 
-_Do curso: ["Node.js: criando sua primeira biblioteca"](https://cursos.alura.com.br/course/nodejs-criando-primeira-biblioteca) da [Alura](https://www.alura.com.br/)_
+Projeto feito durante curso ["Node.js: criando sua primeira biblioteca"](https://cursos.alura.com.br/course/nodejs-criando-primeira-biblioteca) da [Alura](https://www.alura.com.br/).
+
+Instrutora do curso: [Juliana Amoasei](https://github.com/JulianaAmoasei)
 
 ## Modo de usar
 
