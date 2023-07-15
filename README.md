@@ -2,7 +2,7 @@
 
 Gera uma lista com as URLs de um texto e retorna o código de status da resposta HTTP
 
-_Generates a list of URLs from a text and returns the HTTP response status code_
+_Generates a list of URLs of a text and returns the HTTP response status code_
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
@@ -26,11 +26,11 @@ _🚧 Em breve este projeto será publicado no npm 🚧_
 
 1. Use o comando `npm run cli` passando o caminho do arquivo de texto:
 
-![example-1](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/b322965b-0dc5-4f7d-b792-99864787df3b)
+![npm run cli ./arquivos/texto.md](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/b322965b-0dc5-4f7d-b792-99864787df3b)
 
 2. Você pode passar a flag `--valida` para checar o _[status code](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)_ da URL:
 
-![example](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/90e85005-8540-47ec-ad7b-a4d5d0d4e024)
+![npm run cli ./arquivos/texto.md -- --valida](https://github.com/LeonardoTorresRodrigues/link-list/assets/91892938/90e85005-8540-47ec-ad7b-a4d5d0d4e024)
 
 ## Curso da Alura
 
